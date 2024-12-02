@@ -79,9 +79,9 @@ rails server
 
 ![Service Architecture](image.png)
 ![Service Architecture](image1.png)
-![Service Architecture](image (2).png)
-![Service Architecture](image (3).png)
-![Service Architecture](image (4).png)
+![Service Architecture](image2.png)
+![Service Architecture](image3.png)
+![Service Architecture](image4.png)
 
 
 
