@@ -1,5 +1,6 @@
-Token Management Service Setup (macOS)
 This service is responsible for managing tokens that can be generated, assigned, unblocked, deleted, and kept alive. It uses Redis for storing and managing tokens, supporting operations like token creation, token allocation, expiration handling, and cleanup.
+
+![Service Architecture](WhatsApp%20Image%202024-12-03%20at%203.47.10%20AM.jpeg)
 
 Features
 Generate Tokens: Create a specified number of tokens, which are added to an available pool.
@@ -75,5 +76,7 @@ bundle install
 brew install redis
 redis-server
 rails server
+
+
 
 
