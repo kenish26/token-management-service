@@ -78,7 +78,7 @@ redis-server
 rails server
 
 ![Service Architecture](image.png)
-![Service Architecture](image (1).png)
+![Service Architecture](image(1).png)
 ![Service Architecture](image (2).png)
 ![Service Architecture](image (3).png)
 ![Service Architecture](image (4).png)
