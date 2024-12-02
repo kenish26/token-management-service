@@ -77,6 +77,8 @@ brew install redis
 redis-server
 rails server
 
+![Service Architecture](image.png)
+![Service Architecture](image(1).png)
 
 
 
